@@ -1,0 +1,13 @@
+{
+  "name": "ev-odd-fn",
+  "version": "2.0.1",
+  "description": "An even/odd based function in Typescript and node.js.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "ev-odd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
